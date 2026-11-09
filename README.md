@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Utku 👋
+Full Stack Web Developer · Istanbul
 
-<!--
-**Utku-Iray/Utku-Iray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production web applications with **React, Next.js and TypeScript**,
+backed by REST APIs in **NestJS, Laravel and Strapi**, plus mobile apps in **Flutter**.
 
-Here are some ideas to get you started:
+Most of my commercial work lives in private company repositories.
+Some of the live products I've built and maintain:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **RS Oto Ekspertiz Market**: e-commerce with 3D Secure payments · [rsotoekspertiz.com](https://rsotoekspertiz.com/)
+- **Vogue VIP Transfer**: multilingual transfer booking, web + Flutter app · [vogueviptransfer.com](https://vogueviptransfer.com/tr)
+- **Garantili Oto Servis**: AI customer chatbot integration · [garantiliotoservis.com](https://www.garantiliotoservis.com/)
+- **Fotobaskısepeti**: e-commerce, live on [iOS](https://apps.apple.com/tr/app/foto-bask%C4%B1-sepeti-foto-bask%C4%B1/id6578450835) and [Android](https://play.google.com/store/apps/details?id=com.fotobaskisepeti.app)
+
+**Stack:** TypeScript · React · Next.js · NestJS · Laravel · Prisma · PostgreSQL · Docker · GitHub Actions · Flutter
+
+📫 [LinkedIn](https://www.linkedin.com/in/utku-iray-guzeldereli/) · utku.iray.guzeldereli@gmail.com
